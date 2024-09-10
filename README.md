@@ -1,2 +1,2 @@
 # Selenium-base-knowledge
-Educational purpose
+Repostory with purpose for learning basic knowleadge of Selenium in PyCharm
